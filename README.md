@@ -1,0 +1,1 @@
+A Real-Estate Price Predictor model created using different regression algorithms including Linear Regression, Decision Tree Regression, and Random ForestRegression using Python libraries such as scikit-learn
